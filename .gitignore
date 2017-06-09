@@ -1,1 +1,3 @@
-routes/*
+#ignore these folders
+node_modules/*
+Testing_Server/*
